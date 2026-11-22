@@ -11,6 +11,16 @@ BCI-Desk 当前面向 **OpenBCI Cyton + Daisy（16 通道）**：实时波形与
 > **研究 / 教育用途 · 非医疗器械** — 详见 [NOTICE.md](NOTICE.md) 与 [LICENSE](LICENSE)。  
 > 当前版本：**0.1.0**（见 `bci_desk/__about__.py`）
 
+<p align="center">
+  <img src="docs/images/115200/12.png" alt="实时佩戴检测：16 通道波形与头皮 SQI 拓扑" width="90%">
+</p>
+<p align="center"><em>实时佩戴检测 — 16 通道波形 + 头皮拓扑 SQI</em></p>
+
+<p align="center">
+  <img src="docs/images/921600/11.png" alt="双通道对比：时域波形与 FFT 频谱" width="90%">
+</p>
+<p align="center"><em>双通道对比 — 时域波形与 FFT（921600 高速档）</em></p>
+
 ## Topics（GitHub 仓库 Settings → Topics）
 
 ```
