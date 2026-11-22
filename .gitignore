@@ -1,0 +1,37 @@
+# 忽略运行时与本地环境
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+*.log
+
+# 采集/调试数据（保留目录结构用 .gitkeep）
+data/acquisition/*
+!data/acquisition/.gitkeep
+data/test/*
+!data/test/.gitkeep
+data/validation/*
+!data/validation/.gitkeep
+data/erders/*
+!data/erders/.gitkeep
+data/debug/*
+!data/debug/.gitkeep
+data/logs/*
+!data/logs/.gitkeep
+data/acquisition_binary/*
+!data/acquisition_binary/.gitkeep
+
+# 训练产物
+*.pth
+training/models/*
+!training/models/.gitkeep
+
+# 系统与临时
+.DS_Store
+Thumbs.db
+*.tmp
+_debug_*.py

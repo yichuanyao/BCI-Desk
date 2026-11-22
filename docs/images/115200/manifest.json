@@ -1,0 +1,23 @@
+{
+  "source": "115200记录.docx",
+  "prefix": "115200",
+  "items": [
+    {"step": 1, "caption": "主界面（未连接）", "files": ["01.png"]},
+    {"step": 2, "caption": "连接中", "files": ["02.png", "03.png"]},
+    {"step": 3, "caption": "连接完成", "files": ["04.png", "05.png"]},
+    {"step": 4, "caption": "现在给了3个通道正弦波（100uVpp 5hz）", "files": ["06.png"]},
+    {"step": 5, "caption": "阻抗检测", "files": ["07.png", "08.png"]},
+    {"step": 6, "caption": "开始检测打开电流源 停止检测关闭电流源", "files": ["09.png"]},
+    {"step": 7, "caption": "专注检测界面", "files": ["10.png"]},
+    {"step": 8, "caption": "专注指标数据", "files": ["11.png"]},
+    {"step": 9, "caption": "实时佩戴检测", "files": ["12.png"]},
+    {"step": 10, "caption": "信号校验（幅值、主频）", "files": ["13.png"]},
+    {"step": 11, "caption": "采集范式选择", "files": ["14.png"]},
+    {"step": 12, "caption": "采集流程提示", "files": ["15.png"]},
+    {"step": 13, "caption": "根据提示进行采集", "files": ["16.png"]},
+    {"step": 14, "caption": "可以全屏", "files": ["17.png"]},
+    {"step": 15, "caption": "有危险提示", "files": ["18.png"]},
+    {"step": 16, "caption": "可以进一步进行测试集采集", "files": ["19.png"]},
+    {"step": 17, "caption": "ERD、ERS检测", "files": ["20.png"]}
+  ]
+}

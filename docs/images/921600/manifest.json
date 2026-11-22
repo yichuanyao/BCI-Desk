@@ -1,0 +1,17 @@
+{
+  "source": "921600记录.docx",
+  "prefix": "921600",
+  "items": [
+    {"step": 1, "caption": "佩戴注膏后通道连接变好", "files": ["01.png"]},
+    {"step": 2, "caption": "可以观测到明显眨眼伪迹", "files": ["02.png"]},
+    {"step": 3, "caption": "配置硬件参数", "files": ["03.png"]},
+    {"step": 4, "caption": "通道接通中", "files": ["04.png"]},
+    {"step": 5, "caption": "可以看到眨眼伪迹", "files": ["05.png"]},
+    {"step": 6, "caption": "921600下串口助手修改默认采样率为1000Hz", "files": ["06.png"]},
+    {"step": 7, "caption": "进入程序默认波特率921600不用修改", "files": ["07.png"]},
+    {"step": 8, "caption": "连接开发板；写入硬件配置进度条", "files": ["08.png", "09.png"]},
+    {"step": 9, "caption": "开始采集，滤波器预热", "files": ["10.png"]},
+    {"step": 10, "caption": "可以看到采集到的脑电波形", "files": ["11.png"]},
+    {"step": 11, "caption": "可以看到明显的眨眼伪迹", "files": ["12.png", "13.png"]}
+  ]
+}

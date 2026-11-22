@@ -1,0 +1,16 @@
+# GUI / 本地工作台依赖（Python 3.10+ 建议）
+
+# 界面
+PyQt5>=5.15
+pyqtgraph>=0.13
+
+# 数值与信号
+numpy>=1.23
+scipy>=1.10
+pandas>=1.5
+
+# 板卡
+brainflow>=5.0
+pyserial>=3.5
+
+# 可选：训练端请另见 training/requirements.txt（含 torch 等）
